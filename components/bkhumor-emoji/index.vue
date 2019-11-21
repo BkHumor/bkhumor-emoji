@@ -100,7 +100,7 @@
 				
 				const list = Array.from({length:100}, (v,k) => k)
 				let index = list.indexOf(res)
-				return `<img src="/static/face/${index}.gif" align="middle">`
+				return `<img src="/static/bkhumor-emoji/${index}.gif" align="middle">`
 				
 				
 			}
